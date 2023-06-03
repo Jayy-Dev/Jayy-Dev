@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **none25711@gmail.com**
 
+- 💸 Support me if you can (Paypal) **none25711@gmail.com**
 <p align="left">
 </p>
 
