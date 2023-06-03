@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayy-Dev&label=Views&color=2ec27e&style=flat-square" alt="jayydev" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayy-Dev" alt="jayydev" /></a> </p>
-
 - 🔭 I’m currently working on [KDE Global Theme Sky Dark](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/)
 
 - 🌱 I’m currently learning **React**
@@ -17,7 +15,6 @@
 
 - 📫 How to reach me **none25711@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
