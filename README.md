@@ -3,7 +3,7 @@
 <!--
 **Jayy-Dev/Jayy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3 align="center">A passionate frontend developer from Philippines 🇵🇭</h3>
+<h3 align="center">A passionate frontend developer and Photographer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayy-Dev&label=Views&color=2ec27e&style=flat-square" alt="jayydev" /> </p>
 
