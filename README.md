@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayy-Dev&label=Views&color=2ec27e&style=flat-square" alt="jayydev" /> </p>
 
-- 🔭 I’m currently working on [KDE Global Theme Sky Dark](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/)
+- 🔭 I’m currently not working <!-- on [](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/) -->
 
 - 🌱 I’m currently learning **React**
 
