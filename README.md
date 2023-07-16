@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayy-Dev/](https://github.com/Jayy-Dev/)
 
-- 📫 How to reach me **none25711@gmail.com**
-
-- 💸 Support me if you can (Paypal) **none25711@gmail.com**
+- <!-- 📫 How to reach me **none25711@gmail.com**
+    💸 Support me if you can (Paypal) **none25711@gmail.com**
+  -->
 <p align="left">
 </p>
 
