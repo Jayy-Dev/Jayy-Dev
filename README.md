@@ -8,5 +8,5 @@
 <p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jayy-Dev&show_icons=true&theme=tokyonight&title_color=1c71d8&text_color=2ec27e&locale=en" alt="jayydev" /></p>
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayy-Dev&theme=tokyonight" alt="jayydev" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayy-Dev&theme=tokyonight" alt="jayydev" /></p>
 
